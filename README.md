@@ -105,6 +105,8 @@ The platform focuses on both operational management and student development.
 ## System Architecture
 
 Admin Dashboard
+→ Inquiry Tracker
+
 → Student Management
 
 → Attendance
